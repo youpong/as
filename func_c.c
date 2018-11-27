@@ -1,7 +1,3 @@
-int subtract(int a, int b) {
-  return a - b;
-}
+int subtract(int a, int b) { return a - b; }
 
-int main() {
-  return subtract(52, 25);
-}
+int main() { return subtract(52, 25); }
