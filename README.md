@@ -1,2 +1,2 @@
 # as
-sample assembler code x86-64
+sample assembly code x86-64
